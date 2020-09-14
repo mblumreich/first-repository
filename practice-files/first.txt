@@ -1,5 +1,5 @@
 This is the first line
-sEcond line
+Second line
 third line
 fourth line
 fifth line
